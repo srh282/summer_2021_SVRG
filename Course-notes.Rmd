@@ -1,0 +1,22 @@
+---
+title: "Summer 2021 Course SVRG"
+author: "Sam H"
+date: "06/15/2021"
+output: html_document
+---
+
+```{r setup, include=FALSE}
+knitr::opts_chunk$set(echo = TRUE)
+```
+
+This is going to be the R Markdown File I use for the online course "Collaborative and Reproducible Data Science in R". It is connected to the Summer_2021_SVRG repository in my GitHub page. 
+
+Tips from the course: 
+
+- shift + down arrow highlights from the cursor 
+- 
+
+```{r}
+
+```
+
